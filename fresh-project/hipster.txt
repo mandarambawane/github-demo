@@ -1,0 +1,1 @@
+ing them you have two options as far as I can see, for instance the WebDriver Objects which uses an "invisible" browser process like FF or Chrome and another I use is ChromeDriver which uses a visible Browser process, to perform the User actions. And don't forget to have Exception Handlers, which scans the Webpage for appearing errors, while in use.
